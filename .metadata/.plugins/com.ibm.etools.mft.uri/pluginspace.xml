@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pluginspace>
+<plugin id="MQTTNodes" version="10.0.0.15"/>
+<plugin id="com.ibm.etools.mft.connector.loopback" version="10.0.0.15"/>
+<plugin id="com.ibm.etools.mft.connector.salesforce" version="10.0.0.15"/>
+<plugin id="com.ibm.etools.mft.mapping.codegen.esql" version="10.0.0.15"/>
+<plugin id="de.ubis.qxn.wbimb.auditingfile" version="1.0.0"/>
+<plugin id="de.ubis.qxn.wbimb.fileio" version="1.0.0"/>
+<plugin id="de.ubis.qxn.wbimb.ims" version="1.0.0"/>
+<plugin id="de.ubis.qxn.wbimb.opa" version="1.7.0"/>
+</pluginspace>
